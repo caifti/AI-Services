@@ -7,4 +7,4 @@ cd ./gpu-burn
 
 make >> progress.log 2>&1 # pipe error to log
 
-./gpu_burn 300
+./gpu-burn 300
